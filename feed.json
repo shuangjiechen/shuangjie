@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "游戏艺术",
+    "title": "GameArt",
     "description": "",
     "home_page_url": "https://shuangjiechen.github.io/shuangjie",
     "feed_url": "https://shuangjiechen.github.io/shuangjie/feed.json",
@@ -10,18 +10,17 @@
     },
     "items": [
         {
-            "id": "https://shuangjiechen.github.io/shuangjie/chen-shuang-jie-de-ge-ren-wang-zhan.html",
-            "url": "https://shuangjiechen.github.io/shuangjie/chen-shuang-jie-de-ge-ren-wang-zhan.html",
-            "title": "好久不见，广州",
-            "summary": " ",
-            "content_html": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://shuangjiechen.github.io/shuangjie/media/posts/2/Wei-Xin-Tu-Pian-_20200703000849.jpg\" sizes=\"(max-width: 48em) 100vw, 100vw\" srcset=\"https://shuangjiechen.github.io/shuangjie/media/posts/2/responsive/Wei-Xin-Tu-Pian-_20200703000849-xs.jpg 300w ,https://shuangjiechen.github.io/shuangjie/media/posts/2/responsive/Wei-Xin-Tu-Pian-_20200703000849-sm.jpg 480w ,https://shuangjiechen.github.io/shuangjie/media/posts/2/responsive/Wei-Xin-Tu-Pian-_20200703000849-md.jpg 768w\"  height=\"1620\" width=\"1080\" alt=\"\" />\n      \n    </figure>\n\n  <p>\n    \n  </p>",
+            "id": "https://shuangjiechen.github.io/shuangjie/ni-hao-guang-zhou.html",
+            "url": "https://shuangjiechen.github.io/shuangjie/ni-hao-guang-zhou.html",
+            "title": "你好，广州",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://shuangjiechen.github.io/shuangjie/media/posts/5/Wei-Xin-Tu-Pian-_20200703000849.jpg\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://shuangjiechen.github.io/shuangjie/media/posts/5/responsive/Wei-Xin-Tu-Pian-_20200703000849-xs.jpg 300w ,https://shuangjiechen.github.io/shuangjie/media/posts/5/responsive/Wei-Xin-Tu-Pian-_20200703000849-sm.jpg 480w ,https://shuangjiechen.github.io/shuangjie/media/posts/5/responsive/Wei-Xin-Tu-Pian-_20200703000849-md.jpg 768w ,https://shuangjiechen.github.io/shuangjie/media/posts/5/responsive/Wei-Xin-Tu-Pian-_20200703000849-lg.jpg 1024w\"  alt=\"\"></figure>",
             "author": {
                 "name": "Shuang"
             },
             "tags": [
             ],
-            "date_published": "2020-07-03T00:44:32+08:00",
-            "date_modified": "2020-07-03T00:44:32+08:00"
+            "date_published": "2020-07-03T01:38:46+08:00",
+            "date_modified": "2020-07-03T01:38:46+08:00"
         }
     ]
 }

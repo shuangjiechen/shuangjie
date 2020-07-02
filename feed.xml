@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>游戏艺术</title>
+    <title>GameArt</title>
     <link href="https://shuangjiechen.github.io/shuangjie/feed.xml" rel="self" />
     <link href="https://shuangjiechen.github.io/shuangjie" />
     <updated>1970-01-01T08:00:00+08:00</updated>
@@ -10,30 +10,18 @@
     <id>https://shuangjiechen.github.io/shuangjie</id>
 
     <entry>
-        <title>好久不见，广州</title>
+        <title>你好，广州</title>
         <author>
             <name>Shuang</name>
         </author>
-        <link href="https://shuangjiechen.github.io/shuangjie/chen-shuang-jie-de-ge-ren-wang-zhan.html"/>
-        <id>https://shuangjiechen.github.io/shuangjie/chen-shuang-jie-de-ge-ren-wang-zhan.html</id>
+        <link href="https://shuangjiechen.github.io/shuangjie/ni-hao-guang-zhou.html"/>
+        <id>https://shuangjiechen.github.io/shuangjie/ni-hao-guang-zhou.html</id>
 
-        <updated>2020-07-03T00:44:31+08:00</updated>
-            <summary>
-                <![CDATA[
-                     
-                ]]>
-            </summary>
+        <updated>2020-07-03T01:38:46+08:00</updated>
+            <summary></summary>
         <content type="html">
             <![CDATA[
-                
-    <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://shuangjiechen.github.io/shuangjie/media/posts/2/Wei-Xin-Tu-Pian-_20200703000849.jpg" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://shuangjiechen.github.io/shuangjie/media/posts/2/responsive/Wei-Xin-Tu-Pian-_20200703000849-xs.jpg 300w ,https://shuangjiechen.github.io/shuangjie/media/posts/2/responsive/Wei-Xin-Tu-Pian-_20200703000849-sm.jpg 480w ,https://shuangjiechen.github.io/shuangjie/media/posts/2/responsive/Wei-Xin-Tu-Pian-_20200703000849-md.jpg 768w"  height="1620" width="1080" alt="" />
-      
-    </figure>
-
-  <p>
-    
-  </p>
+                <figure class="post__image"><img loading="lazy"  src="https://shuangjiechen.github.io/shuangjie/media/posts/5/Wei-Xin-Tu-Pian-_20200703000849.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://shuangjiechen.github.io/shuangjie/media/posts/5/responsive/Wei-Xin-Tu-Pian-_20200703000849-xs.jpg 300w ,https://shuangjiechen.github.io/shuangjie/media/posts/5/responsive/Wei-Xin-Tu-Pian-_20200703000849-sm.jpg 480w ,https://shuangjiechen.github.io/shuangjie/media/posts/5/responsive/Wei-Xin-Tu-Pian-_20200703000849-md.jpg 768w ,https://shuangjiechen.github.io/shuangjie/media/posts/5/responsive/Wei-Xin-Tu-Pian-_20200703000849-lg.jpg 1024w"  alt=""></figure>
             ]]>
         </content>
     </entry>
