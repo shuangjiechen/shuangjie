@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>游戏艺术</title>
+    <link href="https://shuangjiechen.github.io/shuangjie/feed.xml" rel="self" />
+    <link href="https://shuangjiechen.github.io/shuangjie" />
+    <updated>1970-01-01T08:00:00+08:00</updated>
+    <author>
+        <name>Shuang</name>
+    </author>
+    <id>https://shuangjiechen.github.io/shuangjie</id>
+
+    <entry>
+        <title>游戏艺术</title>
+        <author>
+            <name>Shuang</name>
+        </author>
+        <link href="https://shuangjiechen.github.io/shuangjie/you-xi-yi-zhu.html"/>
+        <id>https://shuangjiechen.github.io/shuangjie/you-xi-yi-zhu.html</id>
+
+        <updated>2020-07-02T23:02:45+08:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="https://shuangjiechen.github.io/shuangjie/media/posts/1/78n94sifbyf11.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://shuangjiechen.github.io/shuangjie/media/posts/1/responsive/78n94sifbyf11-xs.png 300w ,https://shuangjiechen.github.io/shuangjie/media/posts/1/responsive/78n94sifbyf11-sm.png 480w ,https://shuangjiechen.github.io/shuangjie/media/posts/1/responsive/78n94sifbyf11-md.png 768w"  alt=""></figure>
+            ]]>
+        </content>
+    </entry>
+</feed>
