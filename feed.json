@@ -5,7 +5,6 @@
     "home_page_url": "https://shuangjiechen.github.io/shuangjie",
     "feed_url": "https://shuangjiechen.github.io/shuangjie/feed.json",
     "user_comment": "",
-    "icon": "https://shuangjiechen.github.io/shuangjie/media/website/You-Xi.svg",
     "author": {
         "name": "Shuang"
     },
@@ -21,8 +20,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-07-03T00:09:45+08:00",
-            "date_modified": "2020-07-03T00:09:45+08:00"
+            "date_published": "2020-07-03T00:44:32+08:00",
+            "date_modified": "2020-07-03T00:44:32+08:00"
         }
     ]
 }
