@@ -6,21 +6,8 @@
     "feed_url": "https://shuangjiechen.github.io/shuangjie/feed.json",
     "user_comment": "",
     "author": {
-        "name": "Shuang"
+        "name": "啊爽"
     },
     "items": [
-        {
-            "id": "https://shuangjiechen.github.io/shuangjie/ni-hao-guang-zhou.html",
-            "url": "https://shuangjiechen.github.io/shuangjie/ni-hao-guang-zhou.html",
-            "title": "你好，广州",
-            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://shuangjiechen.github.io/shuangjie/media/posts/5/Wei-Xin-Tu-Pian-_20200703000849.jpg\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://shuangjiechen.github.io/shuangjie/media/posts/5/responsive/Wei-Xin-Tu-Pian-_20200703000849-xs.jpg 300w ,https://shuangjiechen.github.io/shuangjie/media/posts/5/responsive/Wei-Xin-Tu-Pian-_20200703000849-sm.jpg 480w ,https://shuangjiechen.github.io/shuangjie/media/posts/5/responsive/Wei-Xin-Tu-Pian-_20200703000849-md.jpg 768w ,https://shuangjiechen.github.io/shuangjie/media/posts/5/responsive/Wei-Xin-Tu-Pian-_20200703000849-lg.jpg 1024w\"  alt=\"\"></figure>",
-            "author": {
-                "name": "Shuang"
-            },
-            "tags": [
-            ],
-            "date_published": "2020-07-03T01:41:09+08:00",
-            "date_modified": "2020-07-03T01:41:09+08:00"
-        }
     ]
 }
