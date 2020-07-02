@@ -5,22 +5,24 @@
     "home_page_url": "https://shuangjiechen.github.io/shuangjie",
     "feed_url": "https://shuangjiechen.github.io/shuangjie/feed.json",
     "user_comment": "",
+    "icon": "https://shuangjiechen.github.io/shuangjie/media/website/You-Xi.svg",
     "author": {
         "name": "Shuang"
     },
     "items": [
         {
-            "id": "https://shuangjiechen.github.io/shuangjie/you-xi-yi-zhu.html",
-            "url": "https://shuangjiechen.github.io/shuangjie/you-xi-yi-zhu.html",
-            "title": "游戏艺术",
-            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://shuangjiechen.github.io/shuangjie/media/posts/1/78n94sifbyf11.png\" sizes=\"(max-width: 48em) 100vw, 100vw\" srcset=\"https://shuangjiechen.github.io/shuangjie/media/posts/1/responsive/78n94sifbyf11-xs.png 300w ,https://shuangjiechen.github.io/shuangjie/media/posts/1/responsive/78n94sifbyf11-sm.png 480w ,https://shuangjiechen.github.io/shuangjie/media/posts/1/responsive/78n94sifbyf11-md.png 768w\"  alt=\"\"></figure>",
+            "id": "https://shuangjiechen.github.io/shuangjie/chen-shuang-jie-de-ge-ren-wang-zhan.html",
+            "url": "https://shuangjiechen.github.io/shuangjie/chen-shuang-jie-de-ge-ren-wang-zhan.html",
+            "title": "好久不见，广州",
+            "summary": " ",
+            "content_html": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://shuangjiechen.github.io/shuangjie/media/posts/2/Wei-Xin-Tu-Pian-_20200703000849.jpg\" sizes=\"(max-width: 48em) 100vw, 100vw\" srcset=\"https://shuangjiechen.github.io/shuangjie/media/posts/2/responsive/Wei-Xin-Tu-Pian-_20200703000849-xs.jpg 300w ,https://shuangjiechen.github.io/shuangjie/media/posts/2/responsive/Wei-Xin-Tu-Pian-_20200703000849-sm.jpg 480w ,https://shuangjiechen.github.io/shuangjie/media/posts/2/responsive/Wei-Xin-Tu-Pian-_20200703000849-md.jpg 768w\"  height=\"1620\" width=\"1080\" alt=\"\" />\n      \n    </figure>\n\n  <p>\n    \n  </p>",
             "author": {
                 "name": "Shuang"
             },
             "tags": [
             ],
-            "date_published": "2020-07-02T23:02:45+08:00",
-            "date_modified": "2020-07-02T23:02:45+08:00"
+            "date_published": "2020-07-03T00:09:45+08:00",
+            "date_modified": "2020-07-03T00:09:45+08:00"
         }
     ]
 }

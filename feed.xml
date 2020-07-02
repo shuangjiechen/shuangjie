@@ -10,18 +10,30 @@
     <id>https://shuangjiechen.github.io/shuangjie</id>
 
     <entry>
-        <title>游戏艺术</title>
+        <title>好久不见，广州</title>
         <author>
             <name>Shuang</name>
         </author>
-        <link href="https://shuangjiechen.github.io/shuangjie/you-xi-yi-zhu.html"/>
-        <id>https://shuangjiechen.github.io/shuangjie/you-xi-yi-zhu.html</id>
+        <link href="https://shuangjiechen.github.io/shuangjie/chen-shuang-jie-de-ge-ren-wang-zhan.html"/>
+        <id>https://shuangjiechen.github.io/shuangjie/chen-shuang-jie-de-ge-ren-wang-zhan.html</id>
 
-        <updated>2020-07-02T23:02:45+08:00</updated>
-            <summary></summary>
+        <updated>2020-07-03T00:09:45+08:00</updated>
+            <summary>
+                <![CDATA[
+                     
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
-                <figure class="post__image"><img loading="lazy"  src="https://shuangjiechen.github.io/shuangjie/media/posts/1/78n94sifbyf11.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://shuangjiechen.github.io/shuangjie/media/posts/1/responsive/78n94sifbyf11-xs.png 300w ,https://shuangjiechen.github.io/shuangjie/media/posts/1/responsive/78n94sifbyf11-sm.png 480w ,https://shuangjiechen.github.io/shuangjie/media/posts/1/responsive/78n94sifbyf11-md.png 768w"  alt=""></figure>
+                
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://shuangjiechen.github.io/shuangjie/media/posts/2/Wei-Xin-Tu-Pian-_20200703000849.jpg" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://shuangjiechen.github.io/shuangjie/media/posts/2/responsive/Wei-Xin-Tu-Pian-_20200703000849-xs.jpg 300w ,https://shuangjiechen.github.io/shuangjie/media/posts/2/responsive/Wei-Xin-Tu-Pian-_20200703000849-sm.jpg 480w ,https://shuangjiechen.github.io/shuangjie/media/posts/2/responsive/Wei-Xin-Tu-Pian-_20200703000849-md.jpg 768w"  height="1620" width="1080" alt="" />
+      
+    </figure>
+
+  <p>
+    
+  </p>
             ]]>
         </content>
     </entry>
