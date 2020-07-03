@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "GameArt",
+    "title": "Keep Studying",
     "description": "",
     "home_page_url": "https://shuangjiechen.github.io/shuangjie",
     "feed_url": "https://shuangjiechen.github.io/shuangjie/feed.json",
@@ -22,8 +22,8 @@
             "tags": [
                    "摄影"
             ],
-            "date_published": "2020-07-03T12:14:23+08:00",
-            "date_modified": "2020-07-03T12:14:23+08:00"
+            "date_published": "2020-07-03T12:51:11+08:00",
+            "date_modified": "2020-07-03T12:51:11+08:00"
         }
     ]
 }
