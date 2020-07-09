@@ -1,11 +1,11 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Keep Studying",
+    "title": "Yume",
     "description": "",
     "home_page_url": "https://shuangjiechen.github.io/shuangjie",
     "feed_url": "https://shuangjiechen.github.io/shuangjie/feed.json",
     "user_comment": "",
-    "icon": "https://shuangjiechen.github.io/shuangjie/media/website/Xiang-Ji.png",
+    "icon": "https://shuangjiechen.github.io/shuangjie/media/website/Xiang-Ji-64.svg",
     "author": {
         "name": "shuangjie"
     },
@@ -23,8 +23,8 @@
             "tags": [
                    "摄影"
             ],
-            "date_published": "2020-07-10T01:29:48+08:00",
-            "date_modified": "2020-07-10T01:29:48+08:00"
+            "date_published": "2020-07-10T01:55:10+08:00",
+            "date_modified": "2020-07-10T01:55:10+08:00"
         },
         {
             "id": "https://shuangjiechen.github.io/shuangjie/kan-zhi-bo-shi-yi-jian-mei-you-yi-yi-de-shi-qing.html",
@@ -37,8 +37,8 @@
             "tags": [
                    "摄影"
             ],
-            "date_published": "2020-07-10T01:29:48+08:00",
-            "date_modified": "2020-07-10T01:29:48+08:00"
+            "date_published": "2020-07-10T01:55:10+08:00",
+            "date_modified": "2020-07-10T01:55:10+08:00"
         }
     ]
 }
